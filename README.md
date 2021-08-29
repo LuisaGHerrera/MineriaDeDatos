@@ -11,4 +11,4 @@
 
 [Ejercicios de Python (básicos)](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Ej_Python_1794593.ipynb)
 
-[Ejercicio Limpieza](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo6.ipynb)
+[Práctica de Limpieza de datos](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo6.ipynb)
