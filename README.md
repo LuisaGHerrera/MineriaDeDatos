@@ -19,4 +19,4 @@
 
 [Presentación Visualización de datos]()
 
-[Cuestionario Visualización de datos]()
+[Cuestionario Visualización de datos](https://github.com/LuisaGHerrera/MineriaDeDatos/blob/main/Cuestionario_Visualizacion_6.pdf)
